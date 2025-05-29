@@ -34,18 +34,29 @@ Editar
 pizzaria-js/
 │
 ├── index.html          # Página principal
+
 ├── pedido.html         # Formulário para realizar pedidos
+
 ├── pedidos.html        # Lista de pedidos
+
 ├── estoque.html        # Tela de controle de estoque
+
 ├── financeiro.html     # Tela de controle financeiro
+
 ├── resumo.html         # Resumo dos pedidos e finanças
+
 ├── recuperar.html      # Página de recuperação de dados
-│
+
+
 ├── styles.css          # Estilos gerais
+
 ├── script.js           # Lógica do sistema
-│
+
+
 ├── fundo.png           # Imagem de fundo
+
 └── icon.png            # Ícone da pizzaria
+
 Como usar
 Clone ou baixe este repositório.
 
