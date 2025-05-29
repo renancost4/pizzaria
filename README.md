@@ -69,6 +69,3 @@ Observações
 Projeto focado em fins educacionais ou como protótipo.
 
 Nenhum backend está implementado — dados são manipulados apenas no frontend.
-
-Licença
-Este projeto está sob a licença MIT.
