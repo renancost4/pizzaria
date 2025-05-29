@@ -1,4 +1,5 @@
 Pizzaria JS
+
 Sistema simples e interativo para gestão de pedidos de uma pizzaria, feito com HTML, CSS e JavaScript.
 
 Funcionalidades
